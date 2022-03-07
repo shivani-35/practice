@@ -1,0 +1,2 @@
+this is inside one.txt
+lol 2
